@@ -1,7 +1,3 @@
-この記事は、GitHub連携して描いた記事になります
+# Zenn CLI
 
-vscode など、自分の好きなエディタで記事を書くことができて、とても楽しいです。
-
-操作は簡単で、GitHub連携とrepository連携するだけです。
-
-ぜひ皆さん試してみてください！
+* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
